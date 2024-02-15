@@ -1,5 +1,4 @@
 # Build-Age-Calculator
-Certainly! Here are some lines you can include in your GitHub README file for an Age Calculator project:
 
 ---
 
